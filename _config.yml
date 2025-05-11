@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Saqib Nazir
-email: saqib.nazir@upb.ro
+title: Dr. Muhammad Amjad Iqbal
+email: muhammad.iqbal@upb.ro
 description: >- # this means to ignore newlines until "baseurl:"
-  Saqib Nazir - Assistant Researcher PhD.
+  Muhammad Amjad Iqbal - PostDoctoral Researcher.
 domain: amjadiqbal.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amjadiqbal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: saqialii
-github_username:  saqibnaziir
+# twitter_username: saqialii
+github_username:  engramjadiqbal
 
 # Build settings
 # theme: minima
@@ -42,16 +42,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Author
 author:
-  name             : "Saqib Nazir"
+  name             : "Muhammad Amjad Iqbal"
   avatar           : "/images/bio-photo-2.JPG"
-  bio              : "PhD. / Assistant Resreacher"
-  location         : "Romania"
+  bio              : "PhD. / PostDoctoral Resreacher"
+  location         : "Europe"
   employer         :
-  email            : "saqib.nazir@upb.ro"
-  github           : "saqibnaziir"
-  googlescholar    : "https://scholar.google.com/citations?user=3nLzb24AAAAJ&hl=en"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : 
+  email            : "muhammad.iqbal@upb.ro"
+  github           : "engramjadiqbal"
+  googlescholar    : "https://scholar.google.com/citations?user=uGMgIM4AAAAJ&hl=en"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Muhammad-Amjad-Iqbal?ev=hdr_xprf"
   uri              :
   bitbucket        : 
   codepen          :
@@ -59,14 +59,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  gitlab           : "saqibnaziir"
+  gitlab           : "engramjadiqbal"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : 
   lastfm           :
-  linkedin         : "www.linkedin.com/in/saqib-nazir-149467186"
-  orcid            : "https://orcid.org/0000-0003-0098-1868"
+  linkedin         : "https://www.linkedin.com/in/muhammad-amjad-iqbal-b3396494/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2201-7746"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
