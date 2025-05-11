@@ -19,7 +19,7 @@ I have obtained my B.S. degree in Electrical (Telecommunication) Engineering fro
 
 I thoroughly enjoy collaborating with interdisciplinary teams encompassing diverse backgrounds. My experience encompasses working alongside small, agile teams to deliver problem-oriented and dependable software solutions. As a Computer Vision engineer, I highly value proactivity, knowledge sharing, and adherence to sound coding practices.
 
-Please take a look at [some of my work](/work).
+#Please take a look at [some of my work](/work).
 
 ---
 
