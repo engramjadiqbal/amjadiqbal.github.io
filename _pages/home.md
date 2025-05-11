@@ -24,15 +24,15 @@ Please take a look at [some of my work](/work).
 ---
 
 ## News
-- [December 2023] Hey! I will defend my Ph.D. thesis on the 8th of December at 10:00 am, in Bucharest. It will take place in the Faculty of Electronics, Telecommunications and Information Technology, ETTI Board Room, located in B-dul Iuliu Maniu, no. 1-3, sector 6, the debate and public support session, of the doctoral thesis with the title: Deep Depth from Defocus for Near Range and In-Situ 3D Exploration. If you want to join please send me an email. More information [Link](https://upb.ro/obtinerea-hartilor-de-adancime-din-imagini-defocalizate-folosind-retele-neurale-profunde-deep-depth-from-defocus-for-near-range-and-in-situ-3d-exploration-nazir-saqib-08-12-2023-ora-1000/)
-- [Sep 2023] Exciting news!!, my paper entitled "Self-supervised Defocus Map Estimation and Auxiliary Image Deblurring Given a Single Defocused Image" has been accepted for presentation at  Digital Image Computing: Techniques and Applications (DICTA) 2023, Port Macquarie, New South Wales Australia [DICTA](https://www.dictaconference.org/)
-- [Apr 2023] Scandinavian Conference on Image Analysis 2023, Lapland, Finland [SCIA](https://sites.google.com/view/scia2023)
-- [Mar 2023] MenelaosNT Forum, Bucharest, Romania [Forum](https://andrei2407.github.io/menelaos_nt_forum_bucharest/)
-- [Oct 2022] 5th European Machine Vision Forum, Cork, Ireland
-- [Oct 2022] IEEE International Conference on Image Processing, Bordeaux, France
-- [Feb 2022] Visiting Researcher @ INSITU, University of Vigo, Spain [INSITU](https://ingenieriainsitu.com/en/)
-- [Feb 2022] PhD Forum Sensing Anywhere Innovation, University of Siegen, Germany [Forum](http://phdforum.zess.uni-siegen.de/)
-- [Sep 2021] Visiting Researcher @ CiTIUS, University Santiago De Compostela, Spain [CiTIUS](https://citius.gal/)
+#- [December 2023] Hey! I defended my Ph.D. thesis on the 8th of December at 10:00 am, in Bucharest, with the title: Sparse reconstruction for high-resolution inverse SAR imaging. More information [Link](https://www.sdettib.pub.ro/MuhammadAmjadIQBAL2023-12-08.html)
+#- [Sep 2023] Exciting news!!, my paper entitled "Self-supervised Defocus Map Estimation and Auxiliary Image Deblurring Given a Single Defocused Image" has been accepted for presentation at  Digital Image Computing: Techniques and Applications (DICTA) 2023, Port Macquarie, New South Wales Australia [DICTA](https://www.dictaconference.org/)
+#- [Apr 2023] Scandinavian Conference on Image Analysis 2023, Lapland, Finland [SCIA](https://sites.google.com/view/scia2023)
+#- [Mar 2023] MenelaosNT Forum, Bucharest, Romania [Forum](https://andrei2407.github.io/menelaos_nt_forum_bucharest/)
+#- [Oct 2022] 5th European Machine Vision Forum, Cork, Ireland
+#- [Oct 2022] IEEE International Conference on Image Processing, Bordeaux, France
+#- [Feb 2022] Visiting Researcher @ INSITU, University of Vigo, Spain [INSITU](https://ingenieriainsitu.com/en/)
+#- [Feb 2022] PhD Forum Sensing Anywhere Innovation, University of Siegen, Germany [Forum](http://phdforum.zess.uni-siegen.de/)
+#- [Sep 2021] Visiting Researcher @ CiTIUS, University Santiago De Compostela, Spain [CiTIUS](https://citius.gal/)
 
 
 [Read more ..]
