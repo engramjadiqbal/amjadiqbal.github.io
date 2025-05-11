@@ -22,9 +22,9 @@ title: Saqib Nazir
 email: saqib.nazir@upb.ro
 description: >- # this means to ignore newlines until "baseurl:"
   Saqib Nazir - Assistant Researcher PhD.
-domain: saqibnaziir.github.io
+domain: amjadiqbal.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://saqibnaziir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://amjadiqbal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: saqialii
 github_username:  saqibnaziir
 
