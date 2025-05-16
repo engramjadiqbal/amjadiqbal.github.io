@@ -28,7 +28,7 @@ Governement College University Faisalabad, *Faisalabad, Pakistan*
 University POLITEHNICA of Bucharest (UPB), *Bucharest, Romania* 
 
 **Fully funded CSC Scholorship**, *2017-2020*  
-Chinese Scholarship Council, *Beijing, China*
+Chinese Scholarship Council, *Nanjing, China*
 
 
 
