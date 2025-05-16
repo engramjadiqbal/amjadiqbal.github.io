@@ -16,12 +16,12 @@ M. A. Iqbal, A. Anghel and M. Datcu
 
 **Subaperture decomposition analysis for accurate ship detection and velocity estimation in synthetic aperture radar imagery**, *RSL, 2025*  
 M. A. Iqbal, A. Anghel and M. Datcu
-[SCIA](https://www.tandfonline.com/doi/full/10.1080/2150704X.2024.2438916)
+[RSL](https://www.tandfonline.com/doi/full/10.1080/2150704X.2024.2438916)
 
 
-**2HDED: Net for Joint Depth Estimation and Image Deblurring from a Single Out-of-Focus Image**, *IEEE International Conference on Image Processing (ICIP), 2022*  
-Saqib Nazir, Lorenzo Vaquero, Manuel Mucientes, Víctor M Brea, Daniela Coltuc 
-[ICIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9897352)
+**Doppler Centroid Estimation for Ocean Surface Current Retrieval from Sentinel-1 SAR Data**, *2021 18th European Radar Conference (EuRAD), London, United Kingdom,*  
+M. A. Iqbal, A. Anghel and M. Datcu
+[EuRAD](https://ieeexplore.ieee.org/abstract/document/9784550)
 
 **DFD and Image Restoration using DNN**, *5th European Machine Vision Forum, 2022*  
 Saqib Nazir 
