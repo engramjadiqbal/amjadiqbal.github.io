@@ -10,9 +10,9 @@ Here are a number of my selected publications. For the full list, please visit m
 
 ---
 
-**Depth Estimation and Image Restoration by Deep Learning from Defocused Images**, *IEEE Trans. Computational Imaging, 2023*  
-Saqib Nazir, Lorenzo Vaquero, Manuel Mucientes, Víctor M Brea, Daniela Coltuc
-[TCI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3nLzb24AAAAJ&citation_for_view=3nLzb24AAAAJ:LkGwnXOMwfcC)
+**Coastline Extraction From SAR Data Using Doppler Centroid Images**, *IEEE Geoscience and Remote Sensing Letters*  
+M. A. Iqbal, A. Anghel and M. Datcu
+[GRSL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uGMgIM4AAAAJ&citation_for_view=uGMgIM4AAAAJ:zYLM7Y9cAGgC)
 
 **iDFD: A Dataset Annotated for Depth and Defocus**, *SCIA, 2023*  
 Saqib Nazir, Zhouyan Qiu, Daniela Coltuc, Joaquın Martınez-Sanchez, Pedro Arias
