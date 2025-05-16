@@ -24,7 +24,7 @@ Governement College University Faisalabad, *Faisalabad, Pakistan*
 ---
 
 
-**Marie Skłodowska-Curie Actions**, *2020-2024*  
+**Marie Skłodowska-Curie Actions**, *2021-2024*  
 University POLITEHNICA of Bucharest (UPB), *Bucharest, Romania* 
 
 **Fully funded CSC Scholorship**, *2017-2020*  
