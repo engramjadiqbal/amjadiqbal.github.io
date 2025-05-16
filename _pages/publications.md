@@ -10,13 +10,13 @@ Here are a number of my selected publications. For the full list, please visit m
 
 ---
 
-**Coastline Extraction From SAR Data Using Doppler Centroid Images**, *IEEE Geoscience and Remote Sensing Letters*  
+**Coastline Extraction From SAR Data Using Doppler Centroid Images**, *IEEE Geoscience and Remote Sensing Letters 2022*  
 M. A. Iqbal, A. Anghel and M. Datcu
 [GRSL](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uGMgIM4AAAAJ&citation_for_view=uGMgIM4AAAAJ:zYLM7Y9cAGgC)
 
-**iDFD: A Dataset Annotated for Depth and Defocus**, *SCIA, 2023*  
-Saqib Nazir, Zhouyan Qiu, Daniela Coltuc, Joaquın Martınez-Sanchez, Pedro Arias
-[SCIA](https://github.com/saqibnaziir/iDFD)
+**Subaperture decomposition analysis for accurate ship detection and velocity estimation in synthetic aperture radar imagery**, *RSL, 2025*  
+M. A. Iqbal, A. Anghel and M. Datcu
+[SCIA](https://www.tandfonline.com/doi/full/10.1080/2150704X.2024.2438916)
 
 
 **2HDED: Net for Joint Depth Estimation and Image Deblurring from a Single Out-of-Focus Image**, *IEEE International Conference on Image Processing (ICIP), 2022*  
