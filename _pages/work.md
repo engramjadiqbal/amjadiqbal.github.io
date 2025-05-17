@@ -62,6 +62,16 @@ Working on the [EXCELSIOR H2020 Project](https://eratosthenes.org.cy/team/muhamm
 4. Write, manage, and coordinate funded research projects.  
 
 ---
+### **Scientific Researcher (Remote)**, *University of Naples ‘Parthenope’* <span class="pull-right">Dec 2023 – Nov 2024</span>
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Remote Sensing, Sea Ice Monitoring, Microwave Radiometry</span>  
+Conducted research under apprenticeship format with focus on geospatial applications using remote sensing data.
+
+**Main Contributions:**
+1. Developed geocoded sea ice coverage maps using data from microwave radiometers.  
+2. Implemented brightness temperature–based monitoring for frozen, melting, and open-water conditions.  
+3. Performed assessment, validation, and comparison with state-of-the-art (SOA) methods and studies.  
+
+---
 
 ### **Ph.D. Researcher**, *CEOSpaceTech* <span class="pull-right">Jan 2021 – Dec 2023</span>
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Remote Sensing, SAR, Inverse SAR, Compressive Sensing, DL/ML</span>  
