@@ -51,7 +51,7 @@ gallery6:
     title: "COSURIA"  
 ---
 **PostDoc Research Associate**, *ERATOSTHENES CENTRE OF EXCELLENCE (ECoE)* <span class="pull-right">Dec 2024 - Present </span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> 3D, Deep Learning</span>
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Marine Saftey and Security Cluster </span>
 Research Associate at [ECoE](https://eratosthenes.org.cy/team/muhammad-amjad-iqbal/) EXCELSIOR H2020 Project. The ERATOSTHENES Centre of Excellence is an autonomous Centre of Excellence with
 Cyprus University of Technology as its sole stakeholder, specializing in earth observation, space technology and geospatial analysis. Cyprus University of Technology has a 16-year experience in earth observations and geospatial analysis.
 
