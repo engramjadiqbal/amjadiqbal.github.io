@@ -51,17 +51,14 @@ gallery6:
     title: "COSURIA"  
 ---
 **PostDoc Research Associate**, *ERATOSTHENES CENTRE OF EXCELLENCE (ECoE)* <span class="pull-right">Dec 2024 - Present </span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Marine Saftey and Security Cluster </span>
-Research Associate at [ECoE](https://eratosthenes.org.cy/team/muhammad-amjad-iqbal/) EXCELSIOR H2020 Project. The ERATOSTHENES Centre of Excellence is an autonomous Centre of Excellence with
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> *Marine Saftey and Security Cluster* </span>
+PDRA at [ECoE](https://eratosthenes.org.cy/team/muhammad-amjad-iqbal/) EXCELSIOR H2020 Project. The ERATOSTHENES Centre of Excellence is an autonomous Centre of Excellence with
 Cyprus University of Technology as its sole stakeholder, specializing in earth observation, space technology and geospatial analysis. Cyprus University of Technology has a 16-year experience in earth observations and geospatial analysis.
-
 
 <i class="fas fa-plus small-grey"></i> Analyze Synthetic Aperture Radar (SAR) data to monitor maritime activities, including ship traffic, oil spills, and environmental changes. <br>
 <i class="fas fa-plus small-grey"></i> Work closely with maritime authorities and stakeholders to provide timely and accurate information for decision-making and operational planning. <br>
 <i class="fas fa-plus small-grey"></i> Supervise Ph.D. students and guide them in research activities along with collaboration. <br>
 <i class="fas fa-plus small-grey"></i> Writing, managing, and/or coordinating funded projects. <br>
-{% include gallery id="gallery6" caption="3D Human Face Mesh" %}
-
 
 
 **Ph.D. Reseracher**, *CEOSpaceTech* <span class="pull-right">Jan 2021 - Dec 2023</span>  
