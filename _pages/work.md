@@ -50,40 +50,46 @@ gallery6:
     alt: "COSURIA"
     title: "COSURIA"  
 ---
-**PostDoc Research Associate**, *ERATOSTHENES CENTRE OF EXCELLENCE (ECoE)* <span class="pull-right">Dec 2024 - Present </span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> *Marine Saftey and Security Cluster* </span>
-PDRA at [ECoE](https://eratosthenes.org.cy/team/muhammad-amjad-iqbal/) EXCELSIOR H2020 Project. The ERATOSTHENES Centre of Excellence is an autonomous Centre of Excellence with
-Cyprus University of Technology as its sole stakeholder, specializing in earth observation, space technology and geospatial analysis. Cyprus University of Technology has a 16-year experience in earth observations and geospatial analysis.
 
-<i class="fas fa-plus small-grey"></i> Analyze Synthetic Aperture Radar (SAR) data to monitor maritime activities, including ship traffic, oil spills, and environmental changes. <br>
-<i class="fas fa-plus small-grey"></i> Work closely with maritime authorities and stakeholders to provide timely and accurate information for decision-making and operational planning. <br>
-<i class="fas fa-plus small-grey"></i> Supervise Ph.D. students and guide them in research activities along with collaboration. <br>
-<i class="fas fa-plus small-grey"></i> Writing, managing, and/or coordinating funded projects. <br>
+### **Postdoctoral Research Associate**, *ERATOSTHENES Centre of Excellence (ECoE)* <span class="pull-right">Dec 2024 – Present</span>
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Marine Safety and Security Cluster</span>  
+Working on the [EXCELSIOR H2020 Project](https://eratosthenes.org.cy/team/muhammad-amjad-iqbal/), focused on Earth Observation, Space Technology, and Geospatial Analysis in collaboration with Cyprus University of Technology.
 
+**Key Responsibilities:**
+1. Analyze Synthetic Aperture Radar (SAR) data to monitor maritime activities including ship traffic, oil spills, and environmental changes.  
+2. Collaborate with maritime authorities and stakeholders to support operational planning and decision-making.  
+3. Supervise Ph.D. students and facilitate collaborative research initiatives.  
+4. Write, manage, and coordinate funded research projects.  
 
-**Ph.D. Reseracher**, *CEOSpaceTech* <span class="pull-right">Jan 2021 - Dec 2023</span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Remote Sensing, Radar Imaging, Inverse SAR, Compressive Sensing, DL/ML </span>  
-Graduate Researcher for [European Training Network (ETN) MENELAOS](https://www.menelaos-nt.eu/) mission. MENELAOS-NT was a MSCA H2020 doctoral funded project, where I worked as an ESR-7 with thesis title "Sparse Reconstruction for High Resolution Inverse SAR Imaging."
+---
 
-<i class="fas fa-plus small-grey"></i> Introduction in the basics of satellite remote sensing for Earth Observation. <br>
-<i class="fas fa-plus small-grey"></i> Study of the SAR image formation, SAR image models and properties, elements of coherent image analysis, basic applications of SAR. <br>
-<i class="fas fa-plus small-grey"></i> Study of data products and SAR preprocessing methods and tools. <br>
-<i class="fas fa-plus small-grey"></i> Critical analysis of state-of-the-art radial motion compensation and time-frequency image formation techniques. <br>
-<i class="fas fa-plus small-grey"></i> Elaboration of novel ISAR imaging techniques for Sentinel-1 SAR images and X-band radar sensors using sub-aperture processing and CS algorithms. Benchmark and demonstration in applications. <br>
-<i class="fas fa-plus small-grey"></i> Develop a target classification/recognition technique based on ISAR images. <br>
-<i class="fas fa-plus small-grey"></i> Comparative analysis of the developed methods and conclusions. <br>
+### **Ph.D. Researcher**, *CEOSpaceTech* <span class="pull-right">Jan 2021 – Dec 2023</span>
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Remote Sensing, SAR, Inverse SAR, Compressive Sensing, DL/ML</span>  
+Conducted doctoral research in the [MENELAOS-NT MSCA H2020 Project](https://www.menelaos-nt.eu/) as ESR-7. Thesis: *Sparse Reconstruction for High Resolution Inverse SAR Imaging.*
 
-**Visiting Researcher**, *ZESS University of Siegen, Germany* <span class="pull-right">Jan 2023 - Jun 2023</span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i>  Compressive Sensing, Sensor systems, radar imaging </span>  
-Visiting PhD researcger within the ZESS Cente, worked on [European Training Network (ETN) MENELAOS](https://www.menelaos-nt.eu/) project. This collaboration was done between the ZESS team for the development of Compressive Sensing algorithm for super resolution imaging. 
+**Research Contributions:**
+1. Studied satellite remote sensing fundamentals for Earth Observation.  
+2. Investigated SAR image formation, models, and properties including coherent image analysis.  
+3. Worked on SAR data products, preprocessing tools, and workflows.  
+4. Conducted critical analysis of radial motion compensation and time-frequency image formation techniques.  
+5. Developed novel ISAR imaging techniques for Sentinel-1 and X-band radar using sub-aperture and compressive sensing (CS) algorithms.  
+6. Created target classification/recognition pipelines based on ISAR images.  
+7. Benchmarked and evaluated performance; drew comparative conclusions.  
 
-<i class="fas fa-plus small-grey"></i>  Compressive Sensing (CS) for High-resolution Imaging. <br>
-<i class="fas fa-plus small-grey"></i>  Applying CS in Inverse SAR Setup. <br>
+---
 
+### **Visiting Researcher**, *ZESS, University of Siegen (Germany)* <span class="pull-right">Jan 2023 – Jun 2023</span>
+<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Compressive Sensing, Sensor Systems, Radar Imaging</span>  
+Visiting scholar under the MENELAOS-NT framework. Collaborated with ZESS to enhance CS algorithms for super-resolution radar imaging.
+
+**Focus Areas:**
+1. Developed compressive sensing techniques for high-resolution radar imaging.  
+2. Integrated CS algorithms into the Inverse SAR (ISAR) processing pipeline.  
+
+---
 
 <script src="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <script>
   AOS.init();
 </script>
-
