@@ -65,7 +65,6 @@ Cyprus University of Technology as its sole stakeholder, specializing in earth o
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> Remote Sensing, Radar Imaging, Inverse SAR, Compressive Sensing, DL/ML </span>  
 Graduate Researcher for [European Training Network (ETN) MENELAOS](https://www.menelaos-nt.eu/) mission. MENELAOS-NT was a MSCA H2020 doctoral funded project, where I worked as an ESR-7 with thesis title "Sparse Reconstruction for High Resolution Inverse SAR Imaging."
 
-
 <i class="fas fa-plus small-grey"></i> Introduction in the basics of satellite remote sensing for Earth Observation. <br>
 <i class="fas fa-plus small-grey"></i> Study of the SAR image formation, SAR image models and properties, elements of coherent image analysis, basic applications of SAR. <br>
 <i class="fas fa-plus small-grey"></i> Study of data products and SAR preprocessing methods and tools. <br>
@@ -73,19 +72,6 @@ Graduate Researcher for [European Training Network (ETN) MENELAOS](https://www.m
 <i class="fas fa-plus small-grey"></i> Elaboration of novel ISAR imaging techniques for Sentinel-1 SAR images and X-band radar sensors using sub-aperture processing and CS algorithms. Benchmark and demonstration in applications. <br>
 <i class="fas fa-plus small-grey"></i> Develop a target classification/recognition technique based on ISAR images. <br>
 <i class="fas fa-plus small-grey"></i> Comparative analysis of the developed methods and conclusions. <br>
-
-
-
-**Visiting Researcher**, *Ingeniería INSITU (INSITU Engineering)* <span class="pull-right">2022 - 2022</span>  
-<span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i>  AI, Deep Learning, Machine Vision, Python</span>  
-Research engineer, within the Ingeniería INSITU (INSITU Engineering) team. The aim of this research stay at the University of Vigo was to explore the LiDAR and TOF cameras and develop a real dataset for Depth from Defocus. The iDFD is an open-source dataset that can be used for 3D indoor applications. [iDFD](https://github.com/saqibnaziir/iDFD)
-
-<i class="fas fa-plus small-grey"></i> Contribution to open-source projects for the team.   <br>
-<i class="fas fa-plus small-grey"></i> Devlopment of iDFD dataset. <br>
-<i class="fas fa-plus small-grey"></i> Public presentation of the project, as well as contributing to research papers.<br>
-
-<span class="small-grey"><i class="fab fa-fw fa-github" aria-hidden="true"></i>[Source code](https://github.com/saqibnaziir/iDFD)</span>
-<span class="small-grey"><i class="fab fa-fw fa-chrome" aria-hidden="true"></i>[Web app](https://github.com/saqibnaziir/iDFD)</span>
 
 **Visiting Researcher**, *ZESS University of Siegen, Germany* <span class="pull-right">Jan 2023 - Jun 2023</span>  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i>  Compressive Sensing, Sensor systems, radar imaging </span>  
